@@ -1,7 +1,7 @@
 all: bin/example
 test: lint unit-test
 
-PLATFORM=local
+PLATFORM=linux/amd64
 
 .PHONY: bin/example
 bin/example:
