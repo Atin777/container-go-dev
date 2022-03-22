@@ -1,6 +1,6 @@
 module github.com/Atin777/container-go-dev
 
-go 1.17.8
+go 1.17
 
 require (
 	github.com/pkg/errors v0.9.1
